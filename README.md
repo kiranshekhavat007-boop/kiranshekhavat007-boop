@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center" style="margin-top: 20px;"> 
+<p align="center"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin: 10px;"/>
   </a> 
@@ -32,6 +32,5 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin: 10px;"/>
   </a> 
 </p>
-
 
 
